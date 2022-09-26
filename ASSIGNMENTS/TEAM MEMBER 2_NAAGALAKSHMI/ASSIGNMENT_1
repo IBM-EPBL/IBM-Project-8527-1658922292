@@ -51,7 +51,7 @@ void loop()
   delay(1000);
 
 
-  //LED ON
+  // LED ON
   if(t>=100)
   {
     digitalWrite(8,HIGH);
