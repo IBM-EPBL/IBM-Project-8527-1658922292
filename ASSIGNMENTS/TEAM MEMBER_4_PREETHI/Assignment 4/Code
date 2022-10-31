@@ -109,4 +109,5 @@ for (int i = 0; i < payloadLength; i++) {
 data3 += (char)payload[i];
 }
 Serial.println("data: "+ data3);
-data3="
+data3="";
+}
