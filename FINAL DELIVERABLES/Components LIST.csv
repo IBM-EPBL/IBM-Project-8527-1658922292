@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"GAS1",1," Gas Sensor"
+"PIEZO1",1," Piezo"
+"M1",1," DC Motor"
+"S2",1," Pushbutton"
+"D1",1,"Red LED"
+"Rpot2",1,"250 kΩ Potentiometer"
+"R1, R3",2,"1 kΩ Resistor"
+"R2",1,"330 Ω Resistor"
+"U2",1," LCD 16 x 2"
+"U3",1," Arduino Uno R3"
