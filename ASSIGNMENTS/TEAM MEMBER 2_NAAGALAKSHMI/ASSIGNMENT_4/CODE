@@ -3,8 +3,8 @@
 void callback(char* subscribetopic, byte* payload, unsigned int
 payloadLength);
 //-------credentials of IBM Accounts------
-#define ORG "9lxobn"//IBM ORGANITION ID
-#define DEVICE_TYPE "ESP32PROJECT"//Device type mentioned in ibm watson IOT Platform
+#define ORG "sx8s8a"//IBM ORGANITION ID
+#define DEVICE_TYPE "ESP32"//Device type mentioned in ibm watson IOT Platform
 #define DEVICE_ID "ESP32"//Device ID mentioned in ibm watson IOT Platform
 #define TOKEN "ESP32PROJECT" //Token
 String data3;
